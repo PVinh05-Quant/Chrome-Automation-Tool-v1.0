@@ -261,5 +261,4 @@ Dự án được lên ý tưởng, phát triển và tối ưu hóa bởi:
 
 Dev: PVinh + AI
 
-Email Liên Hệ: ppvinh151@gmail.com#   C h r o m e - A u t o m a t i o n - T o o l - v 1 . 0  
- 
+Email Liên Hệ: ppvinh151@gmail.com#
