@@ -1,0 +1,19 @@
+{
+    "su_dung_che_do_tuong_tac": false,
+    "url_khoi_dau_tuong_tac": "https://google.com",
+    "so_luong_tien_trinh_song_song":1,
+    "su_dung_profile_rieng": false,
+    "thu_muc_profiles": "profiles",
+    "su_dung_proxy": false,
+    "sap_xep_cua_so": {
+        "so_cot_mong_muon": 1,
+        "so_dong_mong_muon": 1,
+        "chieu_rong_mong_muon": 505,
+        "chieu_cao_mong_muon": 400,   
+        "khoang_cach_giua_cac_cua_so": 3,
+        "bu_tru_chieu_cao_tieu_de": 80
+    },
+    "kiem_tra_tai_nguyen": false,
+    "cpu_toi_da": 90,
+    "ram_toi_da": 90
+}

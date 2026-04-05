@@ -1,0 +1,180 @@
+[
+  {
+    "buoc": 1,
+    "hanh_dong": "dieu_huong",
+    "gia_tri": "https://www.google.com"
+  },
+  {
+    "buoc": 2,
+    "hanh_dong": "cho",
+    "gia_tri": {
+      "loai": "so_thuc_ngau_nhien",
+      "nho_nhat": 1,
+      "lon_nhat": 2
+    }
+  },
+  {
+    "buoc": 3,
+    "hanh_dong": "dien_thong_tin",
+    "loai_bo_chon": "NAME",
+    "gia_tri_bo_chon": "q",
+    "gia_tri_nhap": "Selenium Python tutorial"
+  },
+  {
+    "buoc": 4,
+    "hanh_dong": "nhan_chuot",
+    "loai_bo_chon": "NAME",
+    "gia_tri_bo_chon": "btnK"
+  },
+  {
+    "buoc": 5,
+    "hanh_dong": "cho",
+    "gia_tri": 3
+  },
+  {
+    "buoc": 6,
+    "hanh_dong": "lay_text",
+    "loai_bo_chon": "ID",
+    "gia_tri_bo_chon": "result-stats"
+  },
+  {
+    "buoc": 7,
+    "hanh_dong": "cuon_trang",
+    "loai_cuon": "xuong"
+  },
+  {
+    "buoc": 8,
+    "hanh_dong": "cho",
+    "gia_tri": 2
+  },
+  {
+    "buoc": 9,
+    "hanh_dong": "cuon_trang",
+    "loai_cuon": "len"
+  },
+  {
+    "buoc": 10,
+    "hanh_dong": "dieu_huong",
+    "gia_tri": "https://www.selenium.dev/documentation/webdriver/elements/alerts/"
+  },
+  {
+    "buoc": 11,
+    "hanh_dong": "cho",
+    "gia_tri": 3
+  },
+  {
+    "buoc": 12,
+    "hanh_dong": "nhan_chuot",
+    "loai_bo_chon": "XPATH",
+    "gia_tri_bo_chon": "//a[text()='See an example alert']"
+  },
+  {
+    "buoc": 13,
+    "hanh_dong": "xu_ly_alert",
+    "hanh_dong_alert": "chap_nhan"
+  },
+  {
+    "buoc": 14,
+    "hanh_dong": "cho",
+    "gia_tri": 2
+  },
+  {
+    "buoc": 15,
+    "hanh_dong": "nhan_chuot",
+    "loai_bo_chon": "XPATH",
+    "gia_tri_bo_chon": "//a[text()='See a confirm']"
+  },
+  {
+    "buoc": 16,
+    "hanh_dong": "xu_ly_alert",
+    "hanh_dong_alert": "huy_bo"
+  },
+  {
+    "buoc": 17,
+    "hanh_dong": "cho",
+    "gia_tri": 2
+  },
+  {
+    "buoc": 18,
+    "hanh_dong": "dieu_huong",
+    "gia_tri": "https://the-internet.herokuapp.com/dropdown"
+  },
+  {
+    "buoc": 19,
+    "hanh_dong": "cho",
+    "gia_tri": 2
+  },
+  {
+    "buoc": 20,
+    "hanh_dong": "chon_dropdown",
+    "loai_bo_chon": "ID",
+    "gia_tri_bo_chon": "dropdown",
+    "chon_theo": "value",
+    "gia_tri_chon": "2"
+  },
+  {
+    "buoc": 21,
+    "hanh_dong": "cho",
+    "gia_tri": 2
+  },
+  {
+    "buoc": 22,
+    "hanh_dong": "dieu_huong",
+    "gia_tri": "https://www.selenium.dev/documentation/webdriver/elements/interaction/"
+  },
+  {
+    "buoc": 23,
+    "hanh_dong": "cho",
+    "gia_tri": 3
+  },
+  {
+    "buoc": 24,
+    "hanh_dong": "vong_lap",
+    "lap_toi_da": 3,
+    "dieu_kien_dung": {
+      "loai_bo_chon": "XPATH",
+      "gia_tri_bo_chon": "//h2[text()='Actions']",
+      "loai_kiem_tra": "ton_tai"
+    },
+    "buoc_con": [
+      {
+        "buoc": "24.1",
+        "hanh_dong": "cuon_trang",
+        "loai_cuon": "theo_pixel",
+        "x": 0,
+        "y": 500
+      },
+      {
+        "buoc": "24.2",
+        "hanh_dong": "cho",
+        "gia_tri": 1
+      },
+      {
+        "buoc": "24.3",
+        "hanh_dong": "lay_text",
+        "loai_bo_chon": "CSS_SELECTOR",
+        "gia_tri_bo_chon": "body"
+      }
+    ]
+  },
+  {
+    "buoc": 25,
+    "hanh_dong": "cho",
+    "gia_tri": 3
+  },
+  {
+    "buoc": 26,
+    "hanh_dong": "dieu_huong",
+    "gia_tri": "https://www.selenium.dev/"
+  },
+  {
+    "buoc": 27,
+    "hanh_dong": "chuyen_cua_so",
+    "dich": "moi_nhat"
+  },
+  {
+    "buoc": 28,
+    "hanh_dong": "cho",
+    "gia_tri": 2
+  }
+]

@@ -1,0 +1,13 @@
+# Chrome Automation Tool v1.0 - Requirements
+
+# Core Selenium for browser automation
+selenium>=4.10.0
+
+# Selenium Wire for proxy authentication support
+selenium-wire>=5.1.0
+
+# WebDriver Manager for automatic ChromeDriver installation
+webdriver-manager>=4.0.0
+
+# psutil for system resource (CPU, RAM) monitoring
+psutil>=5.9.0
