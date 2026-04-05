@@ -1,4 +1,4 @@
-# 🚀 Chrome Automation Tool v1.0
+# 🚀 Chrome Automation Tool
 
 **Chrome Automation Tool v1.0** là một hệ thống tự động hóa trình duyệt web mạnh mẽ, đa luồng và linh hoạt được viết bằng Python. Công cụ này cho phép bạn quản lý nhiều hàng đợi người dùng (profile), tự động cấu hình proxy, sắp xếp cửa sổ thông minh trên màn hình và thực thi các kịch bản tương tác web phức tạp thông qua cấu hình JSON hoàn toàn tự động.
 
