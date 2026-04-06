@@ -262,3 +262,5 @@ Dự án được lên ý tưởng, phát triển và tối ưu hóa bởi:
 Dev: PVinh + AI
 
 Email Liên Hệ: ppvinh151@gmail.com
+
+*“Romain Rolland: "There is only one heroism in the world: to see the world as it is, and to love it."”*
